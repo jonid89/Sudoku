@@ -1,0 +1,17 @@
+
+
+On Unity:
+Buy game for no ads + allsymbols
+Coin text show numbers changing.
+Languages
+Remembering levels played
+store data on a server
+Confirm Symbols purchase shows symbol/name
+
+
+
+On phone:
+Get Hint button doesn't give hint and Ad doesn't load.
+
+
+

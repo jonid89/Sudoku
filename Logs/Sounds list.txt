@@ -1,0 +1,11 @@
+
+
+
+Button: Click_Standard_00
+Yes: Click_Standard_02
+No/Back: Mouth_08
+Rubber: Slide_Sharp_01
+Wrong: Mouth_00
+Coin-In: Coins_Pouring_02
+Coin-Out: Coins_Pouring_02
+
