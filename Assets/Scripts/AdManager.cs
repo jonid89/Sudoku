@@ -64,9 +64,9 @@ public class AdManager : MonoBehaviour
     {
         AdRequest request;
 
-        if (TestDevice)
+        /*if (TestDevice)
             request = new AdRequest.Builder().AddTestDevice(SystemInfo.deviceUniqueIdentifier).Build();
-        else
+        else*/
             request = new AdRequest.Builder().Build();
 
         return request;

@@ -5,6 +5,16 @@ using System;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
 
+
+
+[Serializable]
+class PlayerData
+{
+    public int _coins;
+    public List<string> _symbols = new List<string>();
+    public bool _mute;
+}
+
 public class GameControl : MonoBehaviour
 {
 
@@ -59,12 +69,5 @@ public class GameControl : MonoBehaviour
 
 }
 
-[Serializable]
-class PlayerData
-{
-    public int _coins;
-    public List<string> _symbols = new List<string>();
-    public bool _mute;
-}
 
 

@@ -9,7 +9,7 @@ public class Currency : MonoBehaviour
     public AudioClip sound;
     public AudioSource audioSource;
 
-    private int _rewardamount = 25;
+    private int _rewardamount = 100;
 
 
     void Start()
