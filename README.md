@@ -1,5 +1,6 @@
 # Sudoku Extra
-Sudoku game with symbols
+### Sudoku game with symbols
+Made with Unity
 
 Web:
 https://jonid89.github.io/Sudoku/
