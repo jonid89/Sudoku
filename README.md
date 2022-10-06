@@ -3,7 +3,7 @@
 Made with Unity
 
 Web:
-https://jonid89.github.io/Sudoku/
+https://jonid89.github.io/Sudoku/index.html
 
 Android:
 https://play.google.com/store/apps/details?id=com.NirvanaGames.Sudoku
